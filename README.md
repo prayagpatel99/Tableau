@@ -4,6 +4,6 @@ Link to the dashboard: https://public.tableau.com/app/profile/prayag6124/viz/Air
 <!DOCTYPE html>
 <html>
 <body>!
-[airbnb-1](https://user-images.githubusercontent.com/90112687/191891276-795169b7-a1d7-40b7-8392-20b82957d594.png)
+<img width="960" alt="tableau1" src="https://user-images.githubusercontent.com/90112687/191891276-795169b7-a1d7-40b7-8392-20b82957d594.png">
 </body>
 </html>
